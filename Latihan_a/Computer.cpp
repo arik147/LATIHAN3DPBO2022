@@ -44,9 +44,9 @@ class Computer {
             this->vga_obj = vga_obj;
         }
 
-        void setTotalPrice(int processorPrice, int diskPrice, int ramPrice)
+        void setTotalPrice(int processorPrice, int diskPrice, int ramPrice, int vgaPrice)
         {
-            this->totalPrice = processorPrice + diskPrice + ramPrice;
+            this->totalPrice = processorPrice + diskPrice + ramPrice + vgaPrice;
         }
 
         // getter
