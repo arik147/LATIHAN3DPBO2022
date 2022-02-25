@@ -25,6 +25,12 @@ Terdapat 5 Kelas dan 1 Main tiap Bahasa (index untuk php)
     - brand
     - type
     - price
+5. Computer
+    - totalPrice
+    - Processor proc_obj
+    - Disk disk_obj
+    - Ram ram_obj
+    - Vga vga_obj
     
 ## Bahasa yang digunakan
 1. C++
