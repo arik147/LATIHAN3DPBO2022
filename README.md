@@ -7,8 +7,8 @@ Repository Latihan 3 mata kuliah Desain Pemrograman Berorientasi Objek 2022
 > untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Penjelasan
-### Terdapat 5 Kelas dan 1 Main tiap Bahasa (index untuk php)
-### 4 kelas merupakan composition dari Kelas Computer yaitu Processor, Disk, Ram, dan Vga.
+Terdapat 5 Kelas dan 1 Main tiap Bahasa (index untuk php).
+4 kelas merupakan composition dari Kelas Computer yaitu Processor, Disk, Ram, dan Vga.
 
 ## Atribut masing-masing kelas
 1. Processor
